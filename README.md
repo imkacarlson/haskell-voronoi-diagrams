@@ -1,8 +1,7 @@
 # Drawing Voronoi Diagrams in Haskell
 
---
-## [Click here to go straight to the nice pictures]()
---
+
+[Click here to go straight to the nice pictures](https://github.com/imkacarlson/haskell-voronoi-diagrams/tree/main/voronoi_diagrams)
 
 This is an assignment in the Functional Programming class I took at [Willamette University](https://willamette.edu/) in the Fall of 2018. Our task was to use a basic `bmp` image creator that the Professor provided and extend it to create some of our own art in Haskell! Having recently taken a Discrete and Computational Geometry course (from the wonderful [Josh Laison](https://willamette.edu/~jlaison/index.html)) and falling in love with [Voronoi Diagrams](https://en.wikipedia.org/wiki/Voronoi_diagram) I decided to try and create these in Haskell. Here are the results!
 
